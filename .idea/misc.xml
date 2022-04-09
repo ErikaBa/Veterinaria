@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/erika/AndroidStudioProjects/Veterinaria/app/src/main/res/layout/activity_citas.xml" value="0.2" />
         <entry key="..\:/Users/erika/AndroidStudioProjects/Veterinaria/app/src/main/res/layout/activity_login.xml" value="0.2" />
         <entry key="..\:/Users/erika/AndroidStudioProjects/Veterinaria/app/src/main/res/layout/activity_main.xml" value="0.1859375" />
+        <entry key="..\:/Users/erika/AndroidStudioProjects/Veterinaria/app/src/main/res/layout/activity_registrar.xml" value="0.2" />
       </map>
     </option>
   </component>
